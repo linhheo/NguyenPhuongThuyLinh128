@@ -13,4 +13,6 @@ using NguyenPhuongThuyLinh128.Models;
         }
 
         public DbSet<NguyenPhuongThuyLinh128.Models.PersonNPTL128> PersonNPTL128 { get; set; }
+
+        public DbSet<NguyenPhuongThuyLinh128.Models.NPTL0128> NPTL0128 { get; set; }
     }

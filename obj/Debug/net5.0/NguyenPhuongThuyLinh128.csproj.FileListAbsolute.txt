@@ -170,3 +170,8 @@ D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\PersonNPTL128s\D
 D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\PersonNPTL128s\Index.cshtml.g.cs
 D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\PersonNPTL128s\Read.cshtml.g.cs
 D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\PersonNPTL128s\Update.cshtml.g.cs
+D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\NPTL0128s\Create.cshtml.g.cs
+D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\NPTL0128s\Delete.cshtml.g.cs
+D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\NPTL0128s\Details.cshtml.g.cs
+D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\NPTL0128s\Edit.cshtml.g.cs
+D:\NETCORE\NguyenPhuongThuyLinh128\obj\Debug\net5.0\Razor\Views\NPTL0128s\Index.cshtml.g.cs
