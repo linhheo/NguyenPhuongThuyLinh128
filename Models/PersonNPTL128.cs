@@ -6,7 +6,6 @@ namespace NguyenPhuongThuyLinh128.Models
 {
     public class PersonNPTL128
     {
-        [Key]
         [Column(TypeName="varchar(20)")]
         public int PersonId { get; set; }
 
